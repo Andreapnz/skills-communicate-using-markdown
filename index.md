@@ -22,3 +22,10 @@ $ git status
 On branch main
 nothing to commit, working tree clean
 ```
+## 📋 Lista de Tarefas
+
+- [x] Adicionar cabeçalhos com Markdown
+- [x] Inserir uma imagem com texto alternativo
+- [x] Incluir exemplos de código
+- [ ] Criar uma lista de tarefas
+
